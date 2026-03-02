@@ -1,8 +1,8 @@
 class Hisohiso < Formula
   desc "Local-first macOS dictation app with multi-backend transcription"
   homepage "https://github.com/dungle-scrubs/hisohiso"
-  url "https://github.com/dungle-scrubs/hisohiso/archive/refs/tags/v0.2.4.tar.gz"
-  sha256 "5ca953d4e419dbe93a002d109ae034a7594b0626048e25304812ab3570e2b524"
+  url "https://github.com/dungle-scrubs/hisohiso/archive/refs/tags/v0.2.7.tar.gz"
+  sha256 "0af915d54c54f5cfac6b787649d8c16d6785917fa465574729b5e47fb599d305"
   license "MIT"
 
   depends_on :macos
