@@ -1,8 +1,8 @@
 cask "hisohiso-app" do
-  version "0.2.4"
-  sha256 "3e8133f75f68d9d401be361c8e6e64a7c97bed7d75872d4b8d3e44b6584aa81a"
+  version "0.2.7"
+  sha256 "881d50c35a4c799c3df02208456f88e54e6fa8db1213522295ffbc2e41fd5e56"
 
-  url "https://github.com/dungle-scrubs/hisohiso/releases/download/v#{version}/hisohiso-v#{version}-darwin-arm64.zip"
+  url "https://github.com/dungle-scrubs/hisohiso/releases/download/v#{version}/hisohiso-v0.2.7-darwin-arm64.zip"
   name "Hisohiso"
   desc "Local-first macOS dictation app with multi-backend transcription"
   homepage "https://github.com/dungle-scrubs/hisohiso"
